@@ -1,6 +1,6 @@
 # Descrição
 
-O objetivo desse projeto é identificar padrões nos dados da loja online Ice Games, que a equipe de vendas e marketing possa usar para elaborar estratégias publicitárias e de venda. A loja Ice vende para o mundo todo, sendo assim temos dados amostrais de populações diferentes. Temos as avaliações de usuários e especialistas, gêneros, plataformas (por exemplo, Xbox ou PlayStation).
+O objetivo desse projeto é identificar padrões nos dados da loja online Ice Games.Padrões que a equipe de vendas e marketing possa usar para elaborar estratégias publicitárias e de venda. A loja Ice vende para o mundo todo, sendo assim temos dados amostrais de populações diferentes. Temos as avaliações de usuários e especialistas, gêneros e plataformas (por exemplo, Xbox ou PlayStation).
 
 Os dados disponíveis são de até 2016 a estratégia é identificar os padrões para as vendas de 2017. 
 
