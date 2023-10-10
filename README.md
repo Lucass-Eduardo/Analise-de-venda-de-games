@@ -12,9 +12,9 @@ O conjunto de dados também contém a abreviatura ESRB. O Entertainment Software
 
 - Caminho do arquivo:
 
-```python
-*/datasets/games.csv* . [Download dataset](https://practicum-content.s3.us-west-1.amazonaws.com/datasets/games.csv)
-```
+
+`*/datasets/games.csv*` . [Download dataset](https://practicum-content.s3.us-west-1.amazonaws.com/datasets/games.csv)
+
 
 - Com o arquivo carregado, foi analisado uma amostra dos dados e as informações gerais. Para identificar erros .
 
