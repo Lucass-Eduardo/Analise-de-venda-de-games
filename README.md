@@ -86,4 +86,4 @@ O valor do limiar Alfa foi de 5%.
 
 —*Classificação* (ESRB)
 
-Os dados de 2016 podem estar incompletos.
+Os dados de 2016 estão incompletos.
